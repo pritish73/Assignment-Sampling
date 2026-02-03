@@ -1,0 +1,6 @@
+Model,Best Sampling Technique
+Decision Tree,Random OverSampling
+KNN,Stratified Sampling
+Logistic Regression,Stratified Sampling
+Random Forest,Random OverSampling
+SVM,Stratified Sampling

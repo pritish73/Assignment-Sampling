@@ -1,0 +1,6 @@
+Model,ADASYN,Random OverSampling,Random UnderSampling,SMOTE,Stratified Sampling
+Decision Tree,99.35,100.0,100.0,99.35,96.77
+KNN,97.06,98.69,25.0,97.06,98.71
+Logistic Regression,91.5,91.83,50.0,91.5,98.71
+Random Forest,99.67,100.0,75.0,99.67,98.71
+SVM,98.04,98.04,50.0,98.04,98.71

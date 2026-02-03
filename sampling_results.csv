@@ -1,0 +1,26 @@
+Sampling Technique,Model,Accuracy (%)
+Random UnderSampling,Logistic Regression,50.0
+Random UnderSampling,Decision Tree,100.0
+Random UnderSampling,Random Forest,75.0
+Random UnderSampling,KNN,25.0
+Random UnderSampling,SVM,50.0
+Random OverSampling,Logistic Regression,91.83
+Random OverSampling,Decision Tree,100.0
+Random OverSampling,Random Forest,100.0
+Random OverSampling,KNN,98.69
+Random OverSampling,SVM,98.04
+SMOTE,Logistic Regression,91.5
+SMOTE,Decision Tree,99.35
+SMOTE,Random Forest,99.67
+SMOTE,KNN,97.06
+SMOTE,SVM,98.04
+ADASYN,Logistic Regression,91.5
+ADASYN,Decision Tree,99.35
+ADASYN,Random Forest,99.67
+ADASYN,KNN,97.06
+ADASYN,SVM,98.04
+Stratified Sampling,Logistic Regression,98.71
+Stratified Sampling,Decision Tree,96.77
+Stratified Sampling,Random Forest,98.71
+Stratified Sampling,KNN,98.71
+Stratified Sampling,SVM,98.71
